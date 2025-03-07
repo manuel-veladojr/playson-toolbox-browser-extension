@@ -1,0 +1,5 @@
+playson-toolbox-browser-extension/
+    auto_commit_push.ps1
+    auto_commit_push.sh
+    project_summary.py
+    python_project_tree.py
